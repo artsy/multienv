@@ -1,0 +1,8 @@
+src/
+node_modules/
+.circleci/
+.github/
+
+tsconfig.json
+.autorc
+.nvmrc

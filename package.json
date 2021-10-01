@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Load multiple dotenv style environment files.",
   "main": "dist/index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "prepublish": "yarn clean && yarn compile",

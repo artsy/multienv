@@ -8,10 +8,11 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
-    "prepublish": "yarn clean && yarn compile",
     "clean": "rm -rf dist/",
-    "compile": "tsc"
+    "compile": "tsc",
+    "prepublish": "yarn clean && yarn compile",
+    "release": "auto shipit",
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",

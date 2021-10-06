@@ -1,6 +1,5 @@
 import { readFileSync, accessSync, constants } from "fs"
-import { parse } from "dotenv"
-import type { DotenvParseOutput } from "dotenv"
+import { DotenvParseOutput, parse } from "dotenv"
 
 function loadEnv(filename: string): DotenvParseOutput {
   return checkFileExistsSync(filename) ? parse(readFileSync(filename)) : {}
@@ -25,8 +24,9 @@ function checkFileExistsSync(filepath: string): boolean {
   return true
 }
 
-// Load the default envs and apply to process.env
-applyToEnv({
-  ...loadEnv(".env.shared"),
-  ...loadEnv(".env"),
-})
+export function loadEnvs(...envs: string[]) {
+  for (const env of envs) {
+    const parsedEnv = loadEnv(env);
+    applyToEnv(parsedEnv)
+  }
+}

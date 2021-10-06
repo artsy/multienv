@@ -1,8 +1,10 @@
-src/
-node_modules/
 .circleci/
 .github/
+node_modules/
+src/
+test/
 
-tsconfig.json
 .autorc
 .nvmrc
+jest.contig.ts
+tsconfig.json

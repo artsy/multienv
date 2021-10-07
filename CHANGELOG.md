@@ -1,3 +1,19 @@
+# v1.2.0 (Thu Oct 07 2021)
+
+#### 🚀  Enhancement
+
+- feature: Fix Order Bug [#9](https://github.com/artsy/multienv/pull/9) ([@icirellik](https://github.com/icirellik))
+
+#### 🏠  Internal
+
+- feature: Orb Support Main [#8](https://github.com/artsy/multienv/pull/8) ([@icirellik](https://github.com/icirellik))
+
+#### Authors: 1
+
+- Cameron Rollheiser ([@icirellik](https://github.com/icirellik))
+
+---
+
 # v1.1.0 (Thu Oct 07 2021)
 
 #### 🚀  Enhancement

@@ -25,7 +25,8 @@ function checkFileExistsSync(filepath: string): boolean {
 }
 
 export function loadEnvs(...envs: string[]) {
-  for (const env of envs) {
+  for (let i = envs.length; i > 0; i--) {
+    const env = envs[i - 1]
     const parsedEnv = loadEnv(env);
     applyToEnv(parsedEnv)
   }

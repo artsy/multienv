@@ -1,3 +1,15 @@
+# v1.1.0 (Thu Oct 07 2021)
+
+#### 🚀  Enhancement
+
+- feature: Make Configurable [#7](https://github.com/artsy/multienv/pull/7) ([@icirellik](https://github.com/icirellik))
+
+#### Authors: 1
+
+- Cameron Rollheiser ([@icirellik](https://github.com/icirellik))
+
+---
+
 # v1.0.1 (Mon Oct 04 2021)
 
 #### 🐛  Bug Fix

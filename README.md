@@ -45,3 +45,4 @@ loadEnvs('db.env', 'redis.env')
 ```
 
 `process.env` now has the keys and values you defined in your `.env` files.
+test

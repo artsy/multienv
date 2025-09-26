@@ -1,6 +1,6 @@
 {
   "name": "@artsy/multienv",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Load multiple dotenv style environment files.",
   "main": "dist/index.js",
   "publishConfig": {

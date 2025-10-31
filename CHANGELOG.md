@@ -1,3 +1,15 @@
+# v1.3.0 (Fri Oct 31 2025)
+
+#### 🚀  Enhancement
+
+- feat: add conventional commit github action [#25](https://github.com/artsy/multienv/pull/25) ([@amonkhouse](https://github.com/amonkhouse))
+
+#### Authors: 1
+
+- Amy Monkhouse ([@amonkhouse](https://github.com/amonkhouse))
+
+---
+
 # v1.2.1 (Fri Sep 26 2025)
 
 #### 🐛  Bug Fix

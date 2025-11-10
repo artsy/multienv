@@ -1,3 +1,15 @@
+# v1.5.0 (Mon Nov 10 2025)
+
+#### 🚀  Enhancement
+
+- feat: add yarn check github action [#27](https://github.com/artsy/multienv/pull/27) ([@mc-jones](https://github.com/mc-jones))
+
+#### Authors: 1
+
+- Matt Jones ([@mc-jones](https://github.com/mc-jones))
+
+---
+
 # v1.4.0 (Mon Nov 10 2025)
 
 #### 🚀  Enhancement

@@ -1,3 +1,15 @@
+# v1.4.0 (Mon Nov 10 2025)
+
+#### 🚀  Enhancement
+
+- feat: add add-version-label github action [#26](https://github.com/artsy/multienv/pull/26) ([@amonkhouse](https://github.com/amonkhouse))
+
+#### Authors: 1
+
+- Amy Monkhouse ([@amonkhouse](https://github.com/amonkhouse))
+
+---
+
 # v1.3.0 (Fri Oct 31 2025)
 
 #### 🚀  Enhancement

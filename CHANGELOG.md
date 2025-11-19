@@ -1,3 +1,15 @@
+# v1.6.0 (Wed Nov 19 2025)
+
+#### 🚀  Enhancement
+
+- build(deps): bump js-yaml from 3.14.1 to 3.14.2 [#28](https://github.com/artsy/multienv/pull/28) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v1.5.0 (Mon Nov 10 2025)
 
 #### 🚀  Enhancement

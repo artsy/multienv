@@ -1,3 +1,15 @@
+# v1.7.0 (Fri Feb 06 2026)
+
+#### 🚀  Enhancement
+
+- feat: add triggers to conventional commits check [#32](https://github.com/artsy/multienv/pull/32) ([@amonkhouse](https://github.com/amonkhouse))
+
+#### Authors: 1
+
+- Amy Monkhouse ([@amonkhouse](https://github.com/amonkhouse))
+
+---
+
 # v1.6.0 (Wed Nov 19 2025)
 
 #### 🚀  Enhancement

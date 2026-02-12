@@ -1,3 +1,15 @@
+# v1.7.1 (Thu Feb 12 2026)
+
+#### 🐛 Bug Fix
+
+- build(deps): bump lodash from 4.17.21 to 4.17.23 [#31](https://github.com/artsy/multienv/pull/31) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v1.7.0 (Fri Feb 06 2026)
 
 #### 🚀  Enhancement

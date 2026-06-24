@@ -1,3 +1,15 @@
+# v1.7.2 (Wed Jun 24 2026)
+
+#### 🐛 Bug Fix
+
+- build(deps): bump minimatch from 3.1.2 to 3.1.5 [#33](https://github.com/artsy/multienv/pull/33) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v1.7.1 (Thu Feb 12 2026)
 
 #### 🐛 Bug Fix

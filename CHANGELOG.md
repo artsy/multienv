@@ -1,3 +1,19 @@
+# v1.8.0 (Wed Jun 24 2026)
+
+#### 🚀 Enhancement
+
+- build(deps): bump lodash from 4.17.23 to 4.18.1 [#35](https://github.com/artsy/multienv/pull/35) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps): bump form-data from 3.0.4 to 3.0.5 [#36](https://github.com/artsy/multienv/pull/36) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v1.7.3 (Wed Jun 24 2026)
 
 #### 🐛 Bug Fix

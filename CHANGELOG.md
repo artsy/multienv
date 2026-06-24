@@ -1,3 +1,15 @@
+# v1.7.3 (Wed Jun 24 2026)
+
+#### 🐛 Bug Fix
+
+- build(deps): bump picomatch from 2.3.0 to 2.3.2 [#34](https://github.com/artsy/multienv/pull/34) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v1.7.2 (Wed Jun 24 2026)
 
 #### 🐛 Bug Fix

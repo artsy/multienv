@@ -1,3 +1,25 @@
+# v1.9.0 (Wed Nov 04 2026)
+
+#### 🚀 Enhancement
+
+- build(deps): bump @babel/core from 7.15.5 to 7.29.7 [#37](https://github.com/artsy/multienv/pull/37) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛  Bug Fix
+
+- Revert "build(deps): bump @babel/core from 7.15.5 to 7.29.7" [#38](https://github.com/artsy/multienv/pull/38) ([@ovasdi](https://github.com/ovasdi))
+
+#### 🏠  Internal
+
+- chore(ci): bump artsy/auto orb for npm trusted publishing [#44](https://github.com/artsy/multienv/pull/44) ([@zapraum](https://github.com/zapraum))
+
+#### Authors: 3
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Ozzie Vasdi ([@ovasdi](https://github.com/ovasdi))
+- Rodrigo ([@zapraum](https://github.com/zapraum))
+
+---
+
 # v1.8.0 (Wed Jun 24 2026)
 
 #### 🚀 Enhancement
